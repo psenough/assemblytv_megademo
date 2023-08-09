@@ -1,0 +1,43 @@
+                                         M O O M I N   P O W E R   ! !                                    _____
+                                         -----------------------------                                _.--'___ \
+                                                                                                     /___   X)  \_
+             ___________   _______________  ______________  ____________   ________ ________        / X)          \==-;*'
+          ___\        /__  \     ____   /__ \     ___    /_ _\      __/     |      \\     /_        \              \
+         /              /___\     X >     |__\     X >      |       /_______|       \>      \       <______________/
+        /___       ____/   |      //      |        //       |     _//       !    _      _    \      /_).          \_\
+          /         Z/   __!     </_______|__     </      __|     Z/      __|    \\     \\    \      \____________/ X
+   ------ \_______________\!_______\   !NE7/______________\ !______________\|_____X______X____/------- (___X____) -----------------
+_______________________________________________________________________________________________________________________________________
+
+	The Practitioners of Lua Megademos present: a TIC-80 Megademo for Assembly 2023 Fantasy Console competition! Curiously titled
+AssemblyTV Megademo. Please launch it on Windows desktop version of TIC-80. The browser, Linux and Mac builds of TIC-80 have
+issues with audio timmings on the currently available official versions (1.0.2164), should work fine on the nightly dev builds.
+
+	Credits (in order of initial project involvement):
+	- ps / TPOLM: concept, ideas, code (cctv, noise, mr qrwx school, muffi, ddt, inercia), gfx, audio, recruiting, project management
+	- evilpaul / Mikucom: ideas, reused code (lifeforce), party place submission officer
+	- kaneel / Mikucom ^ TPOLM: reused sfx, bread baking tips
+	- Jaska / TPOLM: inspiration
+	- superogue / Marquee Design: code (titlescreen, nooon, hurricane)
+	- Suule / Oftenhide: code (moomin, hockey), gfx (fruits, hockey, moomin, atomic playboy, disk throwing)
+	- Jobe / Matt Current: code (testcard, chimera), music (hesburger)
+	- mantratronic / Rift: ideas, recruiting officer, code (hockey, kill all audio and lights)
+	- Gasman / HOOY-PROGRAM: tools, ideas, code (porrasturvat, atomic playboy, oprah),
+							music (1995, ceasefire, saint, gerbera, stickman, ddt)
+	- Gigabates / Desire: optimizations, code (melon, gerbera, prophecy, ceasefire, stickman, 1995)
+	- Jtruk / Rift: tools, code (scientist)
+	- Dave84: tools, code (saint, hesburger, stickman, hot consoles, disk throwing)
+	- ToBach / Rift: reused code (grass, birds)
+	- Jeenio / Accession: music (porrasturvat, melon, lifeforce, atomic playboy, inercia, bargain show, oprah, hockey, disk throwing)
+	- Decca / Rift: tools
+	- ne7 / Triad: reused ascii art
+
+	Greetings to all the groups whose demos we demaked for this megademo and have been integral part of Assembly culture for so long:
+TPOLM, Nooon, Halcyon, tAAt, Melon, Accession, Coma, Moppi, Unreal Voodoo, ASD, Kewlers, Conspiracy, CNCD, Orange.
+
+	And all the other ones which we could not fit into the 5 min limit of the demo compo.
+
+	Hope you enjoy this tribute and learned a bit more about the limitations and possibilities of the TIC-80 fantasy console platform!
+
+	We wanted to make a TPOLM megademo but we ran out of active TPOLM members participating, so we made a new TPOLM! With blackjack
+and hookers! Where musicians still go to retire 7000 years in the future but now with indices starting at 1!
