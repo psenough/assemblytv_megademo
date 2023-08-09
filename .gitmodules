@@ -1,0 +1,3 @@
+[submodule "ticfile"]
+	path = ticfile
+	url = https://github.com/gasman/ticfile
